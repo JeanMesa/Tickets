@@ -1,0 +1,91 @@
+
+/* BODY STYLES */
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Tahoma;
+}
+
+.main {
+  margin: auto;
+  margin-top: 10px;
+  border: 3px solid #005580;
+  border-radius: 25px;
+  width: 600px;
+  height: 840px;
+  text-align: center;
+}
+
+p {
+  text-align: left;
+  margin-left: 20px;
+  font-weight: bold;
+  color: rgba(102, 0, 51, 0.7);
+}
+
+.input {
+  margin-left: 20px;
+}
+
+/* HEADERS STYLES */
+
+h1 {
+  color: #005580;
+}
+
+h3 {
+    text-align: left;
+    margin: 0;
+    color: #669999;
+}
+
+.page-header {
+  margin: auto;
+  color: #009999;
+}
+
+header {
+  margin: auto;
+}
+
+.main-header {
+  text-align: center;
+}
+
+
+.logo {
+  text-align: left;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+
+
+/*LIST STYLES*/
+
+a {
+  list-style: none;
+  text-decoration: none;
+  text-align: left;
+  line-height: 1.75em;
+  color: #600080;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #009999;
+}
+
+/*SELECTIONS STYLES*/
+
+.selections {
+  text-align: left;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.selections #button-one {
+  text-align: right;
+  margin-right: 1.75em;
+}
